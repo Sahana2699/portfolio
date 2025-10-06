@@ -35,8 +35,8 @@ const theme = createTheme({
       },
     },
     h: {
-      fontSize: '5rem',
-      fontWeight: 900,
+      fontSize: '3rem',
+      fontWeight: 700,
       background: '#ffffff',
       WebkitBackgroundClip: 'text',
       WebkitTextFillColor: 'transparent',
@@ -49,8 +49,8 @@ const theme = createTheme({
       WebkitTextFillColor: 'transparent',
     },
     h3: {
-      fontSize: '1.5rem',
-      fontWeight: 600,
+      fontSize: '1.2rem',
+      fontWeight: 40,
     },
     h4: {
       fontSize: '1.25rem',

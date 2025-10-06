@@ -58,7 +58,7 @@ const Hero = () => {
         />
       </GalaxyBackground>
       
-      <ContentWrapper maxWidth="lg">
+      <ContentWrapper maxWidth="md">
         <Box sx={{ maxWidth: '800px' }}>
           <Typography
             variant="h"
