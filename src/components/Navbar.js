@@ -3,17 +3,17 @@ import { AppBar, Toolbar, Typography, Button, Box, IconButton, Drawer, List, Lis
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-scroll';
 
-const Logo = () => (
-  <img
-    src="/images/logo.svg"
-    alt="Logo"
-    style={{ 
-      width: '180px', 
-      height: '90px', 
-      marginRight: '12px' 
-    }}
-  />
-);
+// const Logo = () => (
+//   <img
+//     src="/images/logo.svg"
+//     alt="Logo"
+//     style={{ 
+//       width: '180px', 
+//       height: '90px', 
+//       marginRight: '12px' 
+//     }}
+//   />
+// );
 
 const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
