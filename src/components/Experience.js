@@ -37,12 +37,12 @@ const TimelineItem = styled(Paper)(({ theme }) => ({
 
 const experienceData = [
   {
-    title: 'ML Engineer Intern',
-    company: 'SEMCOG Technologies',
-    location: 'Las Vegas, AZ, USA',
+    title: 'Data Engineer',
+    company: 'Discover Financial Services',
+    location: 'USA',
     date: 'Sep 2025 – Present',
     responsibilities: [
-      'Built and deployed end-to-end ML pipelines for classification, anomaly detection, forecasting, and recommendations',
+      'Built and maintained 10+ Azure Data Factory pipelines to ingest daily credit card transaction data from upstream source systems into ADLS Gen2, processing approximately 1.5M records per day and reducing prior manual data-refresh cycles by 6 hours per week.',
       'Integrated models into FastAPI/Flask microservices for real-time inference',
       'Engineered data preprocessing and ETL workflows using SQL, MongoDB, and pandas',
       'Collaborated with AI Engineering, Data Science, and Analytics teams to deliver scalable, responsible AI solutions',
